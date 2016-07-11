@@ -5,7 +5,7 @@
 #####Instruction:
 
 - Preview the **screenshot below**
-- Clone the project to your local folder ```git clone ```
+- Clone the project to your local folder ```git clone https://github.com/maciejk77/rwd-website ```
 - Run ```npm install``` to get all the dependancies
 - Run Gulp ```gulp watch```
 
@@ -20,6 +20,8 @@
 - Tweaking browser-sync to run on localhost: stackoverflow research
 
 ####Preview
+
+- According to **mobile first** design screenshots below illustrate mobile | tablet | desktop
 
 ![rwd-website screenshot](https://raw.githubusercontent.com/maciejk77/rwd-website/master/img/screenshot.png)
 
