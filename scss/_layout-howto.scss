@@ -1,0 +1,35 @@
+.layout-howto {
+  background-color: #f2debb;
+
+  &__breadcrumbs {
+    margin-top: 20px;
+  }
+
+  &__card {
+    background-color: blue; 
+    margin-bottom: 20px;
+  }
+
+  &__mpu {
+    margin-bottom: 20px;
+  }
+
+  &__advert {
+    background-color: blue;
+    margin-bottom: 20px;
+  }
+
+  &__card-group {
+    background-color: lightblue;
+  }
+
+  &__offer-card {
+    background-color: blue;
+    margin-bottom: 20px;
+  }
+
+  &__card-row {
+    margin-top: 20px;
+  }
+
+}

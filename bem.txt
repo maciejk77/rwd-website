@@ -1,0 +1,88 @@
+
+layout-howto
+  layout-howto__breadcrumbs
+  
+  layout-howto__header
+    header
+      header__title
+      header__description
+      
+  layout-howto__card-row
+    layout-howto__square-group
+      layout-howto__card
+        card
+
+    layout-howto__mpu
+      mpu
+        mpu__label
+        mpu__ad
+  
+  layout-howto__card-row
+    layout-howto__card
+      card
+
+---// Secret Garden // ---------------------------
+
+  layout-howto__panda-play
+    panda-play
+      panda-play__header
+        header__title
+        header__description
+        header__logo
+
+      panda-play__card-row
+        panda-play__card-container
+          panda-play-card
+
+      panda-play__footer
+        footer
+          footer__text
+          footer__button
+
+---// 4,2 cards in 2 rows + ad on the left //---
+
+  layout-howto__card-row
+    layout-howto__card
+      card
+
+  layout-howto__card-row
+    layout-howto__advert
+      advert
+        advert__label
+        advert__image
+
+    layout-howto__card-group
+      layout-howto__card
+        card
+
+---// Related Offers //-------------------------
+
+    layout-howto__rel-header
+      rel-header
+
+    layout-howto__card-row
+      layout-howto__offer-card
+        offer-card
+
+---// 2 rows x 4 cards //-----------------------
+
+  layout-howto__card-row
+    layout-howto__card
+      card
+
+  layout-howto__card-row
+    layout-howto__card
+      card
+
+---// Recent Discussion //----------------------
+
+  layout-howto__recent-disc
+    recent-disc
+      recent-disc__header
+        header
+          header__title
+
+      recent-disc__card-row
+        recent-disc__forum-card
+          forum-card
+

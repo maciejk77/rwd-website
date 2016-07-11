@@ -1,0 +1,48 @@
+.layout-howto {
+  background-color: #f2debb; }
+  .layout-howto__breadcrumbs {
+    margin-top: 20px; }
+  .layout-howto__card {
+    background-color: blue;
+    margin-bottom: 20px; }
+  .layout-howto__mpu {
+    margin-bottom: 20px; }
+  .layout-howto__advert {
+    background-color: blue;
+    margin-bottom: 20px; }
+  .layout-howto__card-group {
+    background-color: lightblue; }
+  .layout-howto__offer-card {
+    background-color: blue;
+    margin-bottom: 20px; }
+  .layout-howto__card-row {
+    margin-top: 20px; }
+
+.panda-play__card-container {
+  background-color: blue;
+  margin-bottom: 20px; }
+
+.panda-play-card {
+  background-color: red;
+  margin-bottom: 20px; }
+
+.card {
+  background-color: red; }
+
+.advert {
+  background-color: red; }
+
+.offer-card {
+  background-color: red; }
+
+.footer__button {
+  margin: 20px 0; }
+
+.footer__text {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: bold;
+  font-size: 16px; }
+
+.header {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: bold; }
