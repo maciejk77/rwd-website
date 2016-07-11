@@ -21,13 +21,13 @@
 
 ####Preview
 
-- According to **mobile first** design screenshots below illustrate mobile | tablet | desktop
+- According to **mobile first** design screenshots below illustrate **mobile | tablet | desktop**
 
 ![rwd-website screenshot](https://raw.githubusercontent.com/maciejk77/rwd-website/master/img/screenshot.png)
 
 #### Things to do
 
-- Setting up default gulp ```gulp```
+- Setting up default gulp task ```gulp```
 - Work on image resizing, optimisation
 - Sass variables
 
