@@ -9,6 +9,9 @@
 - Run ```npm install``` to get all the dependancies
 - Run Gulp ```gulp watch```
 
+NOTE: **red** and **blue** backgrounds are used for developemnt only to show space of each container,
+check responsiveness e.g. card, card group etc.
+
 #####The goal is to end up with (key learnings):
 
 - BEM style CSS structure
