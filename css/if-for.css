@@ -1,0 +1,59 @@
+.item-1 {
+  width: 3px;
+  float: left;
+  margin: 1px 0; }
+
+.item-2 {
+  width: 6px;
+  float: right;
+  margin: 0 2px; }
+
+.item-3 {
+  width: 9px;
+  float: left;
+  margin: 3px 0; }
+
+.item-4 {
+  width: 12px;
+  float: right;
+  margin: 0 4px; }
+
+.item-5 {
+  width: 15px;
+  float: left;
+  margin: 5px 0; }
+
+.item-6 {
+  width: 18px;
+  float: right;
+  margin: 0 6px; }
+
+.item-7 {
+  width: 21px;
+  float: left;
+  margin: 7px 0; }
+
+.item-8 {
+  width: 24px;
+  float: right;
+  margin: 0 8px; }
+
+.item-9 {
+  width: 27px;
+  float: left;
+  margin: 9px 0; }
+
+.item-10 {
+  width: 30px;
+  float: right;
+  margin: 0 10px; }
+
+.item-11 {
+  width: 33px;
+  float: left;
+  margin: 11px 0; }
+
+.item-12 {
+  width: 36px;
+  float: right;
+  margin: 0 12px; }

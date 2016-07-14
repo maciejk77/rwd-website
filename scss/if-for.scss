@@ -1,0 +1,17 @@
+@for $i from 1 through 12 {
+
+  .#{item}-#{$i} {
+    width: #{$i * 3}px;
+
+    @if ($i % 2 != 0) { 
+      float: left; 
+      margin: #{$i}px 0;
+    } 
+    @else { 
+      float: right; 
+      margin: 0 #{$i}px; 
+    }
+  }
+}
+
+

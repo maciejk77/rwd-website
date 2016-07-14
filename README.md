@@ -21,7 +21,7 @@ check responsiveness e.g. card, card group etc.
 - Compiling CSS to Sass: gulp-sass npm plugin
 - Adding browser-sync for previewing on live website
 - Tweaking browser-sync to run on localhost: stackoverflow research
-
+- **@for** **@if** Sass excercise where Sass file compiles to dozen of classes in CSS
 ####Preview
 
 - According to **mobile first** design screenshots below illustrate **mobile | tablet | desktop**
