@@ -1,8 +1,8 @@
-#RWD Responsive website
+# RWD Responsive website
 
-####The purpose of this exercise is to build a responsive website template with **Sass** and **Gulp**
+#### The purpose of this exercise is to build a responsive website template with **Sass** and **Gulp**
 
-#####Instruction:
+##### Instruction:
 
 - Preview the **screenshot below**
 - Clone the project to your local folder ```git clone https://github.com/maciejk77/rwd-website ```
@@ -12,7 +12,7 @@
 NOTE: **red** and **blue** backgrounds are used for developemnt only to show space of each container,
 check responsiveness e.g. card, card group etc.
 
-#####The goal is to end up with (key learnings):
+##### The goal is to end up with (key learnings):
 
 - BEM style CSS structure
 - Extraction of BEM-CSS classes to seperate Sass partials
@@ -22,7 +22,7 @@ check responsiveness e.g. card, card group etc.
 - Adding browser-sync for previewing on live website
 - Tweaking browser-sync to run on localhost: stackoverflow research
 - **@for** **@if** Sass excercise where Sass file compiles to dozen of classes in CSS
-####Preview
+#### Preview
 
 - According to **mobile first** design screenshots below illustrate **mobile | tablet | desktop**
 
